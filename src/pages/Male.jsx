@@ -79,7 +79,7 @@ function Male() {
 
 
   return (
-    <>
+    <div style={{height:"100vh"}}>
       <div className='row mt-3 w-100'>
         <div className='col-2 col-md-4'></div>
         <div className='col-9 col-md-4   mt-5 card d-flex align-items-center justify-content-center'>
@@ -194,7 +194,7 @@ function Male() {
           </Button>
         </Modal.Footer>
       </Modal>
-    </>
+    </div>
   )
 }
 

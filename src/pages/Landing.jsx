@@ -27,7 +27,7 @@ function Landing() {
           </div>
 
           <div className="col-md-6 d-flex justify-content-center" >
-            <div className='card mt-5 d-flex align-items-center border border-light' style={{width:'200px', height:'300px',backgroundImage:"url('https://i0.wp.com/pixahive.com/wp-content/uploads/2020/08/Female-gym-trainer-25362-pixahive.jpg?fit=1890%2C2560&ssl=1')",backgroundSize:'cover'}}>
+            <div className='card mt-5 mb-5 d-flex align-items-center border border-light' style={{width:'200px', height:'300px',backgroundImage:"url('https://i0.wp.com/pixahive.com/wp-content/uploads/2020/08/Female-gym-trainer-25362-pixahive.jpg?fit=1890%2C2560&ssl=1')",backgroundSize:'cover'}}>
 
               
               <Link to={'/female'}><button className='btn mt-2 border px-4 border-light fw-bold text-light mx-4'><FontAwesomeIcon icon={faVenus} />Female</button></Link>

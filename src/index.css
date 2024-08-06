@@ -6,7 +6,7 @@
 
 body{
     background-image: url('https://img.freepik.com/free-photo/3d-gym-equipment_23-2151114137.jpg');
-    height:100vh; 
+    height:100%; 
     width:100%;
     background-repeat: no-repeat;
     background-size: cover;
